@@ -228,7 +228,7 @@ figure {
   @media screen and (max-width: 768px) {
     #colorlib-main {
       width: 100%;
-      padding: 0 3px; } }
+      padding: 0 6px; } }
 
 #colorlib-hero {
   min-height: 500px;
