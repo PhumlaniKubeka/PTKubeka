@@ -249,7 +249,8 @@ figure {
         background-size: cover;
         background-position: bottom center;
         height: 100%;
-        position: relative; }
+        position: relative; 
+}
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
       z-index: 1000;
@@ -279,12 +280,12 @@ figure {
     #colorlib-hero .flexslider .slider-text {
       display: table;
       opacity: 0;
-      min-height: 100%;
+      min-height: 500px;
       z-index: 9; }
       #colorlib-hero .flexslider .slider-text > .slider-text-inner {
         display: table-cell;
         vertical-align: middle;
-        min-height: 700px;
+        min-height: 500px;
         padding: 2.5em;
         position: relative; }
         @media screen and (max-width: 768px) {
